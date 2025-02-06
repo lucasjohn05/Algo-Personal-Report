@@ -1,2 +1,2 @@
 # Algo-Personal-Report
-This repository contains the detailed report and implementation of a pairs trading strategy developed for the AlgoGators trading club application. The report outlines the economic rationale, statistical filtering criteria, and testing methodology used to create and evaluate the strategy. The contents found in the `QuantConnectCode.py` file include the code used in QuantConnect to backtest the results. 
+The contents found in the QuantConnectCode.py file include the code used in QuantConnect to backtest the results. THe filtering process was done through Google Colab and can be obtained through the following link: https://colab.research.google.com/drive/1whFQz4mJVywIOT2zEq2E6FQs0ngnaTcT?usp=sharing
